@@ -1,0 +1,12 @@
+/Users/mhuang/Dev Projects/C#/Learning C#/ChooseYourOwnAdventure/ChooseYourOwnAdventure/bin/Debug/netcoreapp3.1/ChooseYourOwnAdventure.deps.json
+/Users/mhuang/Dev Projects/C#/Learning C#/ChooseYourOwnAdventure/ChooseYourOwnAdventure/bin/Debug/netcoreapp3.1/ChooseYourOwnAdventure.runtimeconfig.json
+/Users/mhuang/Dev Projects/C#/Learning C#/ChooseYourOwnAdventure/ChooseYourOwnAdventure/bin/Debug/netcoreapp3.1/ChooseYourOwnAdventure.runtimeconfig.dev.json
+/Users/mhuang/Dev Projects/C#/Learning C#/ChooseYourOwnAdventure/ChooseYourOwnAdventure/bin/Debug/netcoreapp3.1/ChooseYourOwnAdventure.dll
+/Users/mhuang/Dev Projects/C#/Learning C#/ChooseYourOwnAdventure/ChooseYourOwnAdventure/bin/Debug/netcoreapp3.1/ChooseYourOwnAdventure.pdb
+/Users/mhuang/Dev Projects/C#/Learning C#/ChooseYourOwnAdventure/ChooseYourOwnAdventure/obj/Debug/netcoreapp3.1/ChooseYourOwnAdventure.csprojAssemblyReference.cache
+/Users/mhuang/Dev Projects/C#/Learning C#/ChooseYourOwnAdventure/ChooseYourOwnAdventure/obj/Debug/netcoreapp3.1/ChooseYourOwnAdventure.csproj.CoreCompileInputs.cache
+/Users/mhuang/Dev Projects/C#/Learning C#/ChooseYourOwnAdventure/ChooseYourOwnAdventure/obj/Debug/netcoreapp3.1/ChooseYourOwnAdventure.AssemblyInfoInputs.cache
+/Users/mhuang/Dev Projects/C#/Learning C#/ChooseYourOwnAdventure/ChooseYourOwnAdventure/obj/Debug/netcoreapp3.1/ChooseYourOwnAdventure.AssemblyInfo.cs
+/Users/mhuang/Dev Projects/C#/Learning C#/ChooseYourOwnAdventure/ChooseYourOwnAdventure/obj/Debug/netcoreapp3.1/ChooseYourOwnAdventure.dll
+/Users/mhuang/Dev Projects/C#/Learning C#/ChooseYourOwnAdventure/ChooseYourOwnAdventure/obj/Debug/netcoreapp3.1/ChooseYourOwnAdventure.pdb
+/Users/mhuang/Dev Projects/C#/Learning C#/ChooseYourOwnAdventure/ChooseYourOwnAdventure/obj/Debug/netcoreapp3.1/ChooseYourOwnAdventure.genruntimeconfig.cache

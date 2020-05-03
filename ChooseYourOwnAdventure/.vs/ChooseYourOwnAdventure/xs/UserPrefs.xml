@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{6040F248-54DF-45C6-8D41-C2AB5E53D3DC}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ChooseYourOwnAdventure/Program.cs">
+    <Files>
+      <File FileName="ChooseYourOwnAdventure/Program.cs" Line="50" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ChooseYourOwnAdventure" expanded="True">
+            <Node name="ChooseYourOwnAdventure" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ChooseYourOwnAdventure PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
