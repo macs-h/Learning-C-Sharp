@@ -1,0 +1,6 @@
+/Users/max/Dev_Projects/C#/ArchitectureArithmetic/ArchitectureArithmetic/bin/Debug/ArchitectureArithmetic.exe
+/Users/max/Dev_Projects/C#/ArchitectureArithmetic/ArchitectureArithmetic/bin/Debug/ArchitectureArithmetic.pdb
+/Users/max/Dev_Projects/C#/ArchitectureArithmetic/ArchitectureArithmetic/obj/Debug/ArchitectureArithmetic.csprojAssemblyReference.cache
+/Users/max/Dev_Projects/C#/ArchitectureArithmetic/ArchitectureArithmetic/obj/Debug/ArchitectureArithmetic.csproj.CoreCompileInputs.cache
+/Users/max/Dev_Projects/C#/ArchitectureArithmetic/ArchitectureArithmetic/obj/Debug/ArchitectureArithmetic.exe
+/Users/max/Dev_Projects/C#/ArchitectureArithmetic/ArchitectureArithmetic/obj/Debug/ArchitectureArithmetic.pdb

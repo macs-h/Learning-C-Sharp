@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArchitectureArithmetic", "ArchitectureArithmetic\ArchitectureArithmetic.csproj", "{97F9BDA3-3B80-4610-B5F4-92CB945D99E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97F9BDA3-3B80-4610-B5F4-92CB945D99E3}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{97F9BDA3-3B80-4610-B5F4-92CB945D99E3}.Debug|anycpu.Build.0 = Debug|anycpu
+		{97F9BDA3-3B80-4610-B5F4-92CB945D99E3}.Release|anycpu.ActiveCfg = Release|anycpu
+		{97F9BDA3-3B80-4610-B5F4-92CB945D99E3}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal

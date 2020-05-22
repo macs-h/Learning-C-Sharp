@@ -1,20 +1,23 @@
-﻿<Properties StartupConfiguration="{6040F248-54DF-45C6-8D41-C2AB5E53D3DC}|Default">
+﻿<Properties StartupConfiguration="{97F9BDA3-3B80-4610-B5F4-92CB945D99E3}|Default">
   <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="ChooseYourOwnAdventure" expanded="True">
-            <Node name="ChooseYourOwnAdventure" expanded="True">
+          <Node name="ArchitectureArithmetic" expanded="True">
+            <Node name="ArchitectureArithmetic" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>
       </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.ChooseYourOwnAdventure PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.ArchitectureArithmetic PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

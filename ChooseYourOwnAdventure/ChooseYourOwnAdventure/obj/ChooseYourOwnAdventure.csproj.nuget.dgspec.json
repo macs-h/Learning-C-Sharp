@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/mhuang/Dev Projects/C#/Learning C#/ChooseYourOwnAdventure/ChooseYourOwnAdventure/ChooseYourOwnAdventure.csproj": {}
+    "/Users/max/Dev_Projects/C#/ChooseYourOwnAdventure/ChooseYourOwnAdventure/ChooseYourOwnAdventure.csproj": {}
   },
   "projects": {
-    "/Users/mhuang/Dev Projects/C#/Learning C#/ChooseYourOwnAdventure/ChooseYourOwnAdventure/ChooseYourOwnAdventure.csproj": {
+    "/Users/max/Dev_Projects/C#/ChooseYourOwnAdventure/ChooseYourOwnAdventure/ChooseYourOwnAdventure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mhuang/Dev Projects/C#/Learning C#/ChooseYourOwnAdventure/ChooseYourOwnAdventure/ChooseYourOwnAdventure.csproj",
+        "projectUniqueName": "/Users/max/Dev_Projects/C#/ChooseYourOwnAdventure/ChooseYourOwnAdventure/ChooseYourOwnAdventure.csproj",
         "projectName": "ChooseYourOwnAdventure",
-        "projectPath": "/Users/mhuang/Dev Projects/C#/Learning C#/ChooseYourOwnAdventure/ChooseYourOwnAdventure/ChooseYourOwnAdventure.csproj",
-        "packagesPath": "/Users/mhuang/.nuget/packages/",
-        "outputPath": "/Users/mhuang/Dev Projects/C#/Learning C#/ChooseYourOwnAdventure/ChooseYourOwnAdventure/obj/",
+        "projectPath": "/Users/max/Dev_Projects/C#/ChooseYourOwnAdventure/ChooseYourOwnAdventure/ChooseYourOwnAdventure.csproj",
+        "packagesPath": "/Users/max/.nuget/packages/",
+        "outputPath": "/Users/max/Dev_Projects/C#/ChooseYourOwnAdventure/ChooseYourOwnAdventure/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/mhuang/.config/NuGet/NuGet.Config"
+          "/Users/max/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -50,7 +50,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.200/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.300/RuntimeIdentifierGraph.json"
         }
       }
     }
