@@ -1,0 +1,6 @@
+/Users/max/Dev_Projects/C#/ExquisiteCorpse/ExquisiteCorpse/bin/Debug/ExquisiteCorpse.exe
+/Users/max/Dev_Projects/C#/ExquisiteCorpse/ExquisiteCorpse/bin/Debug/ExquisiteCorpse.pdb
+/Users/max/Dev_Projects/C#/ExquisiteCorpse/ExquisiteCorpse/obj/Debug/ExquisiteCorpse.csprojAssemblyReference.cache
+/Users/max/Dev_Projects/C#/ExquisiteCorpse/ExquisiteCorpse/obj/Debug/ExquisiteCorpse.csproj.CoreCompileInputs.cache
+/Users/max/Dev_Projects/C#/ExquisiteCorpse/ExquisiteCorpse/obj/Debug/ExquisiteCorpse.exe
+/Users/max/Dev_Projects/C#/ExquisiteCorpse/ExquisiteCorpse/obj/Debug/ExquisiteCorpse.pdb
